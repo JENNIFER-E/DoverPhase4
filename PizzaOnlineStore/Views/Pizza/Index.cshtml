@@ -1,0 +1,33 @@
+﻿@model IEnumerable<PizzaOnlineStore.Models.PizzaModel>
+
+@{
+    ViewData["Title"] = "Pizza List";
+}
+
+<h1>Pizza List</h1>
+
+
+<div class="row">
+    @foreach (var item in Model)
+    {
+        <div class="col-4">
+            <div class="card">
+                <img class="card-img-top " alt="Image" src="@item.ImageUrl" style="width :100%;height:15vw; object-fit:cover"/>
+                <div class="card-body">
+                    <h3 class="card-title">@Html.DisplayFor(modelItem => item.pizzaName)</h3>
+                    <p class="card-text"> @Html.DisplayFor(modelItem => item.details)</p>
+                    <div class="form-row">
+                        Price:Rs @Html.DisplayFor(modelItem => item.price) &nbsp &nbsp  Type: @Html.DisplayFor(modelItem => item.Category)
+                    </div>
+                    <hr />
+
+                    <a asp-action="Index" asp-controller="Order" class="btn btn-success btn-block" style="margin-bottom:10px;">Order Now</a>
+
+                </div>
+            </div>
+            <br />
+        </div>
+    }
+    @ViewBag.message
+
+</div>

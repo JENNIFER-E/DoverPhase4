@@ -1,0 +1,228 @@
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\PizzaOnlineStore.exe
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\PizzaOnlineStore.deps.json
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\PizzaOnlineStore.runtimeconfig.json
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\PizzaOnlineStore.runtimeconfig.dev.json
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\PizzaOnlineStore.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\PizzaOnlineStore.pdb
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\PizzaOnlineStore.Views.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\PizzaOnlineStore.Views.pdb
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.csproj.AssemblyReference.cache
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.AssemblyInfoInputs.cache
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.AssemblyInfo.cs
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.csproj.CoreCompileInputs.cache
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.RazorAssemblyInfo.cache
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.RazorAssemblyInfo.cs
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\staticwebassets\PizzaOnlineStore.StaticWebAssets.Manifest.cache
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\staticwebassets\PizzaOnlineStore.StaticWebAssets.xml
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\PizzaOnlineStore.styles.css
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.TagHelpers.input.cache
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.TagHelpers.output.cache
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.RazorCoreGenerate.cache
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.RazorTargetAssemblyInfo.cache
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.RazorTargetAssemblyInfo.cs
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.Views.pdb
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.csproj.CopyComplete
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.dll
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.pdb
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.genruntimeconfig.cache
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\Razor\Views\Pizza\Index.cshtml.g.cs
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+C:\Users\11036380\source\repos\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\PizzaOnlineStore.exe
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\PizzaOnlineStore.deps.json
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\PizzaOnlineStore.runtimeconfig.json
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\PizzaOnlineStore.runtimeconfig.dev.json
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\PizzaOnlineStore.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\PizzaOnlineStore.pdb
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\PizzaOnlineStore.Views.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\PizzaOnlineStore.Views.pdb
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.csproj.AssemblyReference.cache
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.AssemblyInfoInputs.cache
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.AssemblyInfo.cs
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.csproj.CoreCompileInputs.cache
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.MvcApplicationPartsAssemblyInfo.cache
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.RazorAssemblyInfo.cache
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.RazorAssemblyInfo.cs
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\staticwebassets\PizzaOnlineStore.StaticWebAssets.Manifest.cache
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\staticwebassets\PizzaOnlineStore.StaticWebAssets.xml
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\scopedcss\bundle\PizzaOnlineStore.styles.css
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.TagHelpers.input.cache
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.TagHelpers.output.cache
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.RazorCoreGenerate.cache
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\Razor\Views\Order\Checkout.cshtml.g.cs
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\Razor\Views\Order\Index.cshtml.g.cs
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\Razor\Views\Pizza\Index.cshtml.g.cs
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.RazorTargetAssemblyInfo.cache
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.RazorTargetAssemblyInfo.cs
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.Views.pdb
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.pdb
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.genruntimeconfig.cache
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\PizzaOnlineStore\obj\Debug\netcoreapp3.1\PizzaOnlineStore.csproj.CopyComplete

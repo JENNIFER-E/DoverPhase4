@@ -1,0 +1,16 @@
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\AutomationApp\bin\Debug\netcoreapp3.1\AutomationApp.exe
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\AutomationApp\bin\Debug\netcoreapp3.1\AutomationApp.deps.json
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\AutomationApp\bin\Debug\netcoreapp3.1\AutomationApp.runtimeconfig.json
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\AutomationApp\bin\Debug\netcoreapp3.1\AutomationApp.runtimeconfig.dev.json
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\AutomationApp\bin\Debug\netcoreapp3.1\AutomationApp.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\AutomationApp\bin\Debug\netcoreapp3.1\AutomationApp.pdb
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\AutomationApp\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\AutomationApp\bin\Debug\netcoreapp3.1\WebDriver.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\AutomationApp\obj\Debug\netcoreapp3.1\AutomationApp.csproj.AssemblyReference.cache
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\AutomationApp\obj\Debug\netcoreapp3.1\AutomationApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\AutomationApp\obj\Debug\netcoreapp3.1\AutomationApp.AssemblyInfoInputs.cache
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\AutomationApp\obj\Debug\netcoreapp3.1\AutomationApp.AssemblyInfo.cs
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\AutomationApp\obj\Debug\netcoreapp3.1\AutomationApp.csproj.CoreCompileInputs.cache
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\AutomationApp\obj\Debug\netcoreapp3.1\AutomationApp.dll
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\AutomationApp\obj\Debug\netcoreapp3.1\AutomationApp.pdb
+E:\Training\phase 4\PROJECT\PizzaOnlineStore\AutomationApp\obj\Debug\netcoreapp3.1\AutomationApp.genruntimeconfig.cache

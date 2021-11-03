@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "CEJT9xJGxylAmUrHQ1Jqu6zc3U+b0hyDjUC0cHU+yg1qPwx5WWYNPw1HMkG6egLP0sUZX2tofucM3vk1uXdWmQ==",
+  "success": true,
+  "projectFilePath": "E:\\Training\\phase 4\\PROJECT\\PizzaOnlineStore\\AutomationApp\\AutomationApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\11036380\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\11036380\\.nuget\\packages\\selenium.webdriver\\4.0.1\\selenium.webdriver.4.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
